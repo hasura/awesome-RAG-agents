@@ -31,6 +31,7 @@ This section lists platforms that help in doing RAG.
 - [Pacha DDN](https://hasura.io/pacha-ddn)
 - [Vectara](https://vectara.com/)
 - [Google Cloud Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder)
+- [Kiln](https://kiln.tech/) ([GitHub](https://github.com/Kiln-AI/Kiln))
 
 ## Services
 This section lists services (SaaS) that help in doing RAG.
