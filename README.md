@@ -41,3 +41,5 @@ This section lists services (SaaS) that help in doing RAG.
 
 ## Case studies
 This section lists real-world case studies and implementation stories of doing RAG.
+
+- [AgentsKB](https://agentskb.com) - Pre-researched knowledge for AI agents. Not RAG - we already did the research. Your agent queries, gets the answer instantly.
