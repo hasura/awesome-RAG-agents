@@ -28,6 +28,7 @@ This section lists libraries and frameworks that help you building RAG solutions
 ## Platforms
 This section lists platforms that help in doing RAG.
 
+- [Agentset](https://agentset.ai/)
 - [Pacha DDN](https://hasura.io/pacha-ddn)
 - [Vectara](https://vectara.com/)
 - [Google Cloud Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder)
