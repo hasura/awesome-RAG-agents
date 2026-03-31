@@ -37,7 +37,7 @@ This section lists services (SaaS) that help in doing RAG.
 
 - [Azure Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/)
 - [Azure AI Search](https://learn.microsoft.com/en-us/azure/search/)
-
+- [ChunkScore](https://ragprep.com)
 
 ## Case studies
 This section lists real-world case studies and implementation stories of doing RAG.
