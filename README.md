@@ -39,5 +39,7 @@ This section lists services (SaaS) that help in doing RAG.
 - [Azure AI Search](https://learn.microsoft.com/en-us/azure/search/)
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Agent identity receipts for autonomous RAG pipeline agents before retrieval operations. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Case studies
 This section lists real-world case studies and implementation stories of doing RAG.
