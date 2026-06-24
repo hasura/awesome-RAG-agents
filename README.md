@@ -30,6 +30,7 @@ This section lists platforms that help in doing RAG.
 
 - [Pacha DDN](https://hasura.io/pacha-ddn)
 - [Vectara](https://vectara.com/)
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses personal files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused RAG-style retrieval.
 - [Google Cloud Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder)
 
 ## Services
